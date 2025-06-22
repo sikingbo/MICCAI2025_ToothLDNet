@@ -1,0 +1,2 @@
+inference/runs/all_tooth/version_0/checkpoints/best1.ckpt filter=lfs diff=lfs merge=lfs -text
+inference/runs/tooth_landmark/version_0/checkpoints/best3.ckpt filter=lfs diff=lfs merge=lfs -text
